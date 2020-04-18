@@ -1,29 +1,27 @@
-# Бот магазин
-Это ```Telegram Shop```, где есть возможность:
-- выбрать товар,
-- выбрать количество,
-- возвращаться и передвигаться по пунктам меню,
-- добавлять товар и удалять его,
-- посмотреть, что есть в корзине,
-- оставить почту для обратной связи.
-Попробовать функционал можно <a href='https://t.me/DevmanLesson3_bot'>здесь</a>
+# Bot shop
+ This is ```Telegram Shop```, where there is an opportunity to:
+ • choose an item,
+ • choose the amount,
+ • go back and navigate through menu items,
+ • add the item and delete it,
+ • see what is in the basket,
+ • leave an email for a feedback. You can try the functional <a href='https://t.me/DevmanLesson3_bot'>here</a>
 
-## Инструкция по запуску кода на сервере
+## Instruction for running code on the server
 
-### Регистрация и установка Heroku
+### Registration and installation of Heroku
 
-Зарегистрируйтесь  на этом <a href='https://signup.heroku.com/dc'>сайте</a>.
+Sign up on this  <a href='https://signup.heroku.com/dc'>site</a>.
 <br>
-Для работы через терминал, установите ```CLI``` для ```Heroku```, для этого
-откройте у себя на компьютере ```bash``` и в нем пропишите следующие команды: 
+To work through the terminal install ```CLI``` for ```Heroku```, to do this you should open ``bash`` on your computer and write in there next commands: 
 <br>
-Для ```Linux``` -<br>
+For Linux  ```Linux``` -<br>
 ```sudo snap install heroku --classic```
 <br>
-Для ```MacOs``` - <br>
+For ```MacOs``` - <br>
 ```brew install heroku/brew/heroku```
 <br>
-Оставаясь в терминал, зайдите через ```bash``` в ваш аккаунт на ```Heroku```:
+Staying in the terminal, log into your account on ```Heroku``` with ```bash```:
 <br>
 ```heroku login```
 <br>
