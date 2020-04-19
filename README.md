@@ -1,5 +1,5 @@
-# Bot shop
- This is ```Telegram Shop```, where there is an opportunity to:<br>
+# Pizza delivery Bot
+ There are ```Telegram Bot``` and ```Facebook Bot``` , where there is an opportunity to:<br>
  • choose an item,<br>
  • choose the amount,<br>
  • go back and navigate through menu items,<br>
