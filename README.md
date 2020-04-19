@@ -25,55 +25,56 @@ Staying in the terminal, log into your account on ```Heroku``` with ```bash```:
 <br>
 ```heroku login```
 <br>
-### Загрузка кода на сервер Heroku
+### Download code on Heroku
 
-Загрузите с ```github``` ваш репозиторий на компьютер: 
+Download from ```github``` your repository to computer:
 <br>
-```git clone https://github.com/djeck1432/telegram_shop.git```
+```git clone https://github.com/djeck1432/pizza-delivery.git```
 <br>
-Откройте папку:
+Open the folder:
 <br>
-```cd telegram_shop ```
+```cd pizza-delivery ```
 <br>
-Создайте приложения в ```Heroku``` :
+Create a new app on ```Heroku``` :
 <br>
 ```heroku create```
 <br>
-Загрузите ваш репозиторий на сервер ```Heroku```:
+Download your repository on the server ```Heroku```:
 <br>
 ```git push heroku master```
 <br>
 
-### Настройка окружения и запуск сервера
+### Setting up the environment and starting the server
 
-Перейдите по <a href='https://dashboard.heroku.com/apps'>ссылке</a>, выберите свое приложение и откройте его.
+Go to the <a href='https://dashboard.heroku.com/apps'>link</a>, choose your app and open it.
 <br>
-В меню навигации, перейдите на вкладку ```Settings```.
+In the navigation menu, go to the tab ```Settings```.
 <br>
-В разделе ```Config vars```, передайте ваши переменные окружения.
+In chapter```Config vars```, pass your environment variables.
 <br>
-В терминале, выполните следующую команду для запуска кода на сервере:<br>
+In the terminal, do the next command for start code on the server:<br>
 ```heroku ps:scale bot=1```
 <br>
-Поздравляю, теперь ваш ```Bot``` работает постоянно, вне зависимости, включен ваш компьютер или нет.
+Congratulations, now your `` Bot`` is constantly working.
 <a name='env'></a>
 
-## Переменные окружения 
-Параметры CMS ```Moltin```:
+
+## Environment variables 
+ Parametrs CMS ```Moltin```:
 <br>
-```STORE_ID``` - ```id``` магазина;
+```STORE_ID``` - ```id``` shop;
 <br>
-```CLIENT_ID```- ```id``` клиента;
+```CLIENT_ID```- ```id``` client;
 <br>
-```CLIENT_TOKEN```- токен 
+```CLIENT_TOKEN```- token 
 <br>
-```TELEGRAM_ACCESS_TOKEN```- ```Telegram``` токен;
+```TELEGRAM_ACCESS_TOKEN```- ```Telegram``` token;
 <br>
 
-Параметры базы данных ```Redis``` :
+Database options ```Redis``` :
 <br>
-```REDIS_PASSWORD ```-  пароль;
+```REDIS_PASSWORD ```-  password;
 <br>
-```REDIS_PORT```- порт;
+```REDIS_PORT```- port;
 <br>
-```REDIS_HOST```- хост;
+```REDIS_HOST```- host;
