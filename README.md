@@ -1,10 +1,10 @@
 # Bot shop
- This is ```Telegram Shop```, where there is an opportunity to:
- • choose an item,
- • choose the amount,
- • go back and navigate through menu items,
- • add the item and delete it,
- • see what is in the basket,
+ This is ```Telegram Shop```, where there is an opportunity to:<br>
+ • choose an item,<br>
+ • choose the amount,<br>
+ • go back and navigate through menu items,<br>
+ • add the item and delete it,<br>
+ • see what is in the basket,<br>
  • leave an email for a feedback. You can try the functional <a href='https://t.me/DevmanLesson3_bot'>here</a>
 
 ## Instruction for running code on the server
