@@ -5,7 +5,8 @@
  • go back and navigate through menu items,<br>
  • add the item and delete it,<br>
  • see what is in the basket,<br>
- • leave an email for a feedback. You can try the functional <a href='https://t.me/DevmanLesson3_bot'>here</a>
+ • leave an email for a feedback.<br>
+ You can try the functional <a href='https://t.me/DevmanLesson3_bot'>here</a>
 
 ## Instruction for running code on the server
 
