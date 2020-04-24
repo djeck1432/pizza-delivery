@@ -8,15 +8,15 @@
  <li>see what is in the basket,</li>
  <li>leave an email for a feedback.</li>
 </ol>
- You can try the functional <a href='https://t.me/DevmanLesson3_bot'>here</a>
+ You can try the functional [here](href='https://t.me/DevmanLesson3_bot')
 
 ## Instruction for running code on the server
 
 ### Registration and installation of Heroku
 
-Sign up on this  <a href='https://signup.heroku.com/dc'>site</a>.
+Sign up on this [site](href='https://signup.heroku.com/dc')
 
-To work through the terminal install ```CLI``` for ```Heroku```, to do this you should open ``bash`` on your computer and write in there next commands: 
+To work through the terminal install `CLI` for `Heroku`, to do this you should open `bash` on your computer and write in there next commands: 
 
 For Linux  `Linux` -
 ```
@@ -63,7 +63,7 @@ In the terminal, do the next command for start code on the server:
 ```
 heroku ps:scale bot=1
 ```
-<br>
+
 Congratulations, now your `Bot` is constantly working.
 <a name='env'></a>
 
