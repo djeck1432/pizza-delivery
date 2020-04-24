@@ -8,7 +8,7 @@
  <li>see what is in the basket,</li>
  <li>leave an email for a feedback.</li>
 </ol>
- You can try the functional [here](https://t.me/DevmanLesson3_bot)
+ You can try the functional [here](https://t.me/DevmanLesson3_bot) .
 
 ## Instruction for running code on the server
 
