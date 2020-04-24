@@ -8,13 +8,13 @@
  <li>see what is in the basket,</li>
  <li>leave an email for a feedback.</li>
 </ol>
- You can try the functional [here](https://t.me/DevmanLesson3_bot) .
+ You can try the functional <a href='https://t.me/DevmanLesson3_bot'>here</a> .
 
 ## Instruction for running code on the server
 
 ### Registration and installation of Heroku
 
-Sign up on this [site](https://signup.heroku.com/dc)
+Sign up on this <a href='https://signup.heroku.com/dc'>site</a>
 
 To work through the terminal install `CLI` for `Heroku`, to do this you should open `bash` on your computer and write in there next commands: 
 
