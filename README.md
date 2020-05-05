@@ -8,7 +8,9 @@
  <li>see what is in the basket,</li>
  <li>leave an email for a feedback.</li>
 </ol>
- You can try the functional <a href='https://t.me/DevmanLesson3_bot'>here</a> .
+
+## How it works
+<img src='https://dvmn.org/filer/canonical/1569216289/327/'>
 
 ## Instruction for running code on the server
 
